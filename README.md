@@ -1,1 +1,1 @@
-Fire up the Jupyter Notebook for comprehensive instructions and get going, fellas!
+# Pose Graph Optimization (scratch + g2o)
